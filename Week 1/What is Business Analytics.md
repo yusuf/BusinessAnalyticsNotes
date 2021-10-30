@@ -10,3 +10,13 @@ Process management and build own process models.
 
 Financial models and organizing data. 
 
+## Skills
+- Problem solving
+- Decision making
+- Critical thinking
+- Business awareness
+- Agile mindset
+- Design thinking
+- Change management
+- Negotiation skills
+
