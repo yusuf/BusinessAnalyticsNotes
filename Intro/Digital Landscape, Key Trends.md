@@ -53,3 +53,4 @@ Application - Industry 4.0
 - AI-based data and software for live data collection
 - Face and voice recognition, automatic translations, etc
 - Solving business and optimization problems
+
