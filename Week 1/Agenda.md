@@ -6,7 +6,7 @@ Argumentation skills, structure ideal clearly and consistently.
 
 Management size. Innovations. Projects. Organizations. 
 
-Computer science and heart techniques. 
+Computer science and hard techniques. 
 
 - Enabling change
 - Defining needs
