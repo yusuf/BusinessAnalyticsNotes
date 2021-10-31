@@ -333,3 +333,139 @@ Organizing data and management
 
 # Modeling
 
+## What is a model?
+
+Webster's dictionary, 14 different meanings.
+- a usually miniature representation of something
+- a system of postulates, data, and inferences presented as a mathematical description of an entity or state of affairs
+- an example for imitation or emulation
+- a description or analogy used to help visualize something (such as an atom) that cannot be directly observed
+
+### 3 models types used in analytics
+- Iconic models - physical replicas or real objects
+- Analog models - physical in form, but do not physically resemble the object being modeled
+- Mathematical models - represent real world problems through a system of mathematical equations
+
+Models are informative representations
+
+"All models are wrong, but some are useful"
+George E. P. Box.
+
+## Why model?
+- Epstein, 2008, 16 reasons to model
+	1. To explain something
+	2. To guide data collection
+	3. To illuminate core dynamics
+	4. To suggest dynamical analogies
+	5. To discover new questions
+	6. To promote scientific mind
+	7. To find outcome boundaries
+	8. To illuminate core uncertainties
+	9. To offer crisis options in real-time
+	10. To show tradeoffs
+	11. To challenge robustness of theories
+	12. To expose incorrect beliefs
+	13. To train practitioners
+	14. To discipline the policy dialogue
+	15. To educate the general public
+	16. To reveal simple vs complex
+
+- Characteristics of a Good Model
+	- Parsimony
+	- Tractability
+	- Conceptual insightfulness
+	- Generalizability
+	- Falsifiability
+	- Empirical consistency and
+	- Predictive precision
+
+**Parsimony**, stinginess, model simplicity
+
+**Tractability**, a model that can be solved
+	- analytical tractability (a solution to a theoretical model)
+	- empirical tractability (estimating/calibrating a model)
+	- computational tractability (finding numerical solutions)
+
+**Generalizability**, the performance and adaptability of a model when applied to a new conditions while maintaining the same basic set of explanatory variables, same variables give similar results on a different data
+
+**Falsifiability**, Scientific models must have the potential to be refuted or falsified. This means that it must be possible to do a real-world test that could show the model is incorrect 
+
+## Analysis for decision-making
+
+### Decision Theory
+
+- Decision theory is a theory about decision
+	- The subject is not very unified
+	- There are many different ways to theorize about decisions
+	- There are many different research traditions
+	- The emphasis is on the less (mathematically) technical aspect of decision-making
+	- Human activities involve decisions
+	- Decision theory focuses on only some aspects of human activity
+	- We choose among options in a non-random way
+	- Hence, decision theory is concerned with **goal-directed behavior in the presence of options**
+
+- Historical development
+	- Mostly since the middle of 20th century
+- Contribution from several disciplines
+	- Economics
+	- Statistics
+	- Operational Research
+	- Social Sciences
+- Multidisciplinary field
+	- Large overlap
+	- Variety of analytical methods
+
+- Normative Decision Theories
+	- how decisions should be made
+- Descriptive Decision Theories
+	- how decisions are made
+
+#### Mathematical Models that Aid Decision-Making
+- General components of a decision-making model
+	- Objective function
+		- A mathematical expression that describes the problem's objective, such as maximizing profit or minimizing cost
+	- Constraints
+		- A set of restrictions or limitations, such as production capacities
+	- Uncontrollable inputs
+		- Environmental factors that are not under the control of the decision maker
+	- Decision variables
+		- Inputs, decision alternatives specified by the decision maker, such as the number of units of product to produce
+
+#### Modelling reality requires using probability
+
+- Deterministic model
+	- all uncontrollable inputs to the model are known and cannot vary
+- Stochastic (or probabilistic) model
+	- some uncontrollable inputs are uncertain and subject to variation (these are often more difficult to analyze)
+
+#### Good models are data intensive !
+- Data preparation is not trivial
+	- Substantial time requirements
+	- Possibility of data collection errors
+- A model with 50 decision variables and 25 constraints could have over 1300 data elements
+	- Large dataset may be required
+
+#### Range of solutions
+- Optional solution : the best output
+- Infeasible solution : a solution that does not satisfy all constraints
+- Possible solution : a solution that satisfies all constraints and is feasible
+
+- Special solution procedures have been developed for specific mathematical models
+	- Small models/problems can be solved by hand
+	- Most practical applications require programming or special software
+
+#### Model Testing & Validation
+
+- Goodness of fit/accuracy of a model are usually assessed after solutions are generated
+- Use "small test" problems for known or expected solutions to validate new models
+	- If solutions are as expected on a "small test" problem, the model on the full-scale problem
+- Corrective actions for inaccurate models
+	- Collection of more accurate input data
+	- Modification of the model
+
+![image](/.attachments/447d2b24b1d134aced733f6981c2687c20cb0ed6.png)
+
+### Types of Analysis
+
+![image](/.attachments/1db426cf98653740a97dbc8f75b4e65555d215bd.png)
+
