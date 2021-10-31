@@ -22,3 +22,9 @@ A broad and **multifunctional process** combining key performance indicators to 
 It is concerned with **improvement** in which its implementation requires target or goal, so that measurement and evaluation can be made against appropriate benchmark
 #### Peleckis (2013)
 A clock showing the **current business** situation and **trends** in its development, helping the company to decide where to go
+
+## Summary
+- Economic Impact (Cost-benefit analysis)
+- Impact Evaluation (Long-term effect of economic inputs)
+- Basic Evaluation (Socio-economic, biological, physical, technical and institutional aspects)
+- Analytical Evaluation (Productivity analysis, risk assessment, marketing, labor)
