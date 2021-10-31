@@ -179,3 +179,157 @@ Causality extended : RDD
 
 ## What are data?
 
+- Data are facts. In any shape, form and format
+- Information is data processed to be meaningful to the person who receive it
+- Knowledge is a combination of information, experience and insight that may benefit the individual or the organization
+
+### Definitions (no one single agreeable definition)
+- Forbes approach (13 different types)
+	1. Big data
+	2. Structured, unstructured, semistructured
+	3. Time-stamped
+	4. Machine
+	5. Spatiotemporal
+	6. Open data
+	7. Dark data
+	8. Real-time data
+	9. Genomics
+	10. Operational
+	11. High-dimensional
+	12. Unverified outdated
+	13. Translytic
+
+Network data ???
+
+![image](/.attachments/8363507108b14ebfb6a686ccfc1ab46c359d01f0.png)
+
+### Data = Foundation
+- Decision (changes, movement)
+	- Purpose
+- Wisdom (integrated, actionable)
+	- Insight
+- Knowledge (contextual, synthesized)
+	- Meaning
+- Information (organized, structured)
+	- Context
+- Data (raw, unstructured)
+
+#### Data to Wisdom path is not always linear...
+
+- Wisdom
+	- Understanding the fundamental principle of relations
+- Knowledge
+	- Patterns in data, meaning
+- Information
+	- Structured, relations between data
+- Data
+	- Items, events, no relations
+
+## Data Types & Classifications
+
+### Basic types of measurement
+- Fundamental
+	- direct measurements of selected attributes, for example, mass and volume in physics
+- Derived
+	- measurements computed from already measured (known) qualities. For example, density is the ration between mass and volume
+
+#### Measurement needs scale
+- Measuring, assign a value to a property using some predetermined transformation laws
+- Scales can be different (eg: mass, temperature)
+- Measurement scales measuring the same property are equivalent
+- For usual scales, the replacement scales can be obtained from each other using the admissible transformations
+
+#### 5 Scale types
+All data can fit into 5 scales
+1. Nominal
+2. Ordinal
+3. Interval
+4. Ratio
+5. Absolute
+
+![image](/.attachments/85a1ad3fd503151b457008d66b2683f0a998f31e.png)
+
+#### High level classification
+
+- Quantitative
+	- numbers and all the things they can measure objectively
+		- Continuous, divisible to finer and finer levels (eg: ranking)
+		- Discrete, count that can't be divided further (eg: number of children)
+- Qualitative
+	- characteristics and descriptors that can't be easily measured, but can be observed subjectively 
+		- Binomial, Items assigned to two mutually exclusive categories (0/1,T/F) (eg: binary)
+		- Nominal, items assigned to individual items to named categories that do not have an implicit or natural value or rank (eg: flag, colors)
+		- Ordinal, items assigned to categories that do have some king of implicit of natural order (eg: average, good, bad)
+
+##### More classifications
+Organizing data and management
+- Converting data to computer readable formats
+	- Integer
+	- Floating point number
+	- Character
+	- String
+	- Boolean
+- Time
+	- Time-series
+	- Cross-sectional
+- Domain
+	- Public
+	- Internal only
+	- Confidential
+	- Restricted
+- Organizational data management
+	- Paper-based classification
+	- Automated classification
+	- User-driven classification
+
+## Data Sources
+
+### Where do data come from?
+
+- **Primary** data are collected directly from the source
+	- **Primary** data are specific to the needs of the researcher at the moment of data collection
+		- Reliable
+		- Authentic
+		- Objective
+	- It is accurate compared to secondary data
+		- Not subjected to personal
+		- The authenticity can be trusted
+	- Primary data are collected directly from the source
+		- The searcher owns the data and can
+			- make it available publicly
+			- patent it
+			- sell it
+		- Primary data are usually up to date
+			- Data are collected in real-time
+			- Not from the old sources
+		- The researcher has full control over the data. Can choose
+			- Design
+			- Method
+			- Data analysis techniques
+		- Primary data are very expensive compared to secondary data
+		- Time-consuming
+		- May not be feasible to collect due to
+			- complexity
+			- required commitment
+- **Secondary** data, collected in the past by someone else
+	- More easily accessible
+	- Available on different platforms
+	- Very affordable
+	- Low time required for collection
+	- Make longitudinal studies more feasible
+	- Helps generating new insights into available primary data
+	- Secondary data may not be authentic and reliable
+	- Many data may not be relevant
+	- May include unknown personal bias of original researcher
+	- Secondary data sources may be outdated
+
+![image](/.attachments/ade9d79bac96e3a20c2097b7b0e404bea426fe6c.png)
+
+### Source Credibility
+
+- Data credibility is important
+- There are many helpful guides on determining the credibility of the source (hint: do not start with the internet)
+- Credibility of the source should supersede all other data requirements
+
+# Modeling
+
