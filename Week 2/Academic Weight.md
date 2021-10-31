@@ -32,3 +32,65 @@ A clock showing the **current business** situation and **trends** in its develop
 - Evaluation of Results (Quantitative/qualitative analysis of retribution factors, product adoption
 - Traditional Evaluation (Use of reports, technical meetings, committee, ad hoc groups, and seminars)
 - Personnel Evaluation (Performance of professional, administrative and technical human resources)
+
+## Steps
+### Objectives
+- Goals of the assessment exercise
+  - Strategy
+  - Policies
+  - Procedures
+  - Personnel
+  - Productivity
+  - Budgets
+  - Constraints
+### Organization
+- Evaluate its size and nature
+  - Demographic variables (age, size, type)
+  - Activity type, industry specific
+  - Nature: clients, output
+### Scope
+- Total or specific
+  - General administration
+  - Productivity, efficiency
+  - Effectiveness
+  - Facilities
+  - Personnel
+  - Finances
+### Users
+- Internal vs external
+  - Employees
+  - Customers, clients
+  - Shareholders
+  - Governmental agencies
+### Models
+- Correspond the goals to the model:
+  - Explicit model
+  - Theory-based
+  - Operationally defined
+  - Empirically validated
+  - Face validity, generalizability
+### Framework
+- System and subsystems
+  - Overall organizational level
+  - Unit level
+  - Individual job level
+  - Relationships between various units
+### Data
+- Data is of utmost importance
+  - Valid sources
+  - Form data to information and insights
+  - Insights into functioning, impact and effectiveness
+### Collection methods
+- Methods to be employed
+  - Interviews
+  - Questionnaires
+  - Observations
+  - Focus groups
+  - Documents and records
+  - Official government reporting data
+### Assessment methodology
+- Correspond to the goals of the model
+  - Historical background
+  - Ad hoc modeling
+  - Formal modeling approaches
+  - Data mining
