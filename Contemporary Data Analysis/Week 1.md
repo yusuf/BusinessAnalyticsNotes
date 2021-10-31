@@ -133,3 +133,49 @@ Causality extended : RDD
 
 ![image](/.attachments/abbf6db8a554af9973e66bb42b439390f7836301.png)
 
+# Role of data
+## Data economy
+- Cira 18,000 BC : first evidence of tally stick
+- Cira 5,000 BC : more advanced record-keeping by people settled along large rivers
+- Circa 2,400 BC : Abacus, Babylon
+- 300 BC - 48 AD : Alexandria Library, largest collection of data in the world (at that time)
+- Cira 100-200 AD : The Antikythera Mechanism, the earliest discovered mechanical computer
+- 1663 : first recorded experiment in statistics carried out by John Graunt
+- 1865 : The first time the term "business intelligence" is used by Richard Millar Devens
+- 1922 : Works of Ronald Fisher defined the field of statistics
+- 1926 : Tesla predicts wireless technology in his interview to the Colliers magazine
+- 1928 : Fritz Pfleumer invents a method of storing information magnetically on tape
+- 1962 : First steps towards speech recognition
+- 1970 : Relational database framework developed by Edgar F Codd
+- 1989 : use of the "big data" term, possibly, for the first time
+- 1991 : The birth of internet as we know it today
+- 2011 - 2020, volume of data in the world has increased from 1.8 to 59 zettabytes, 90% of all available data we have today was generated in the last two year
+- In 2025, it is expected to reach 175 ZB
+
+### What is Data Economy?
+- A global digital ecosystem in which data is gathered, organized and exchanged by a network of vendors for the purpose of deriving value from the accumulated info.
+- A branch of economics, where data are the goods. Related discipline is called "data economics"
+- Mallow's "The Zeroth Problem"
+	- A major breakthrough ("an epochal event") for the field of statistics
+		- In 1922 Fisher decoupled the theory of statistics from its applications
+	- Why major and important?
+		- "A rich complex of concepts can be defined: tests, estimates, prior and posterior distributions, likelihood, sufficiency, efficiency, admissibility, invariance... We can study approximations and asymptotics. We can develop a theory of experimental design. We can develop general procedures such as the bootstrap."
+	- Objective of statistics = reduction of data
+	- Fisher's problems that arise from reduction of data
+		- Problems of Specification
+		- Problems of Estimation
+		- Problems of Distribution
+	- Most work in Data Analysis
+		- Classical (Neyman/Pearson) and Bayesian methodology
+		- Robustness studies
+	- Most studies in statistics concern
+		- Problem of Estimation
+		- Problem of Distribution
+	- Today research focus
+		- Data scientists focus on "specification, estimation and distribution" of fisher's specification
+		- New algorithms, methods, approaches all fall within these approaches
+		- "But there are problems that logically precede Fisher's namely deciding what the relevant population is, what the relevant data are, and just how these relate to the purpose of the statistical study" - C. Mallow, 1998
+		- DATA should not be missing from "data science"
+
+## What are data?
+
