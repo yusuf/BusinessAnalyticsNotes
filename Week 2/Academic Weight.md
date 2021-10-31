@@ -28,3 +28,7 @@ A clock showing the **current business** situation and **trends** in its develop
 - Impact Evaluation (Long-term effect of economic inputs)
 - Basic Evaluation (Socio-economic, biological, physical, technical and institutional aspects)
 - Analytical Evaluation (Productivity analysis, risk assessment, marketing, labor)
+- Operative Evaluation (measurements of efficiency)
+- Evaluation of Results (Quantitative/qualitative analysis of retribution factors, product adoption
+- Traditional Evaluation (Use of reports, technical meetings, committee, ad hoc groups, and seminars)
+- Personnel Evaluation (Performance of professional, administrative and technical human resources)
